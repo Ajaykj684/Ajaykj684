@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay kj</h1>
 <h3 align="center">A self-taught Full stack developer from India</h3>
 
-- 🌱**Software Developer**
+- 🌱 **Software Developer and Tech entusiast**
 
 - 💬 Ask me about **Python, Django, FastAPI, ReactJs, PostgreSQL, DRF**
 
