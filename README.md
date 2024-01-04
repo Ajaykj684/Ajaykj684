@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Django, FastAPI, ReactJs, PostgreSQL, DRF**
 
-- 📫 How to reach me **ajaykj684@gmail.com**
+- 📫 You can reach me on **ajaykj684@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
