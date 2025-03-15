@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay kj</h1>
-<h3 align="center">A self-taught Full stack developer from India</h3>
+<h3 align="center">An experienced Full stack developer</h3>
 
-- 🌱 **Software Developer and Tech entusiast**
+- 🌱 **SDE**
 
-- 💬 Ask me about **Python, Django, FastAPI, ReactJs, PostgreSQL, DRF**
+- 💬 Ask me about **Python, Java, Django, FastAPI, ReactJs, PostgreSQL**
 
 - 📫 You can reach me on **ajaykj684@gmail.com**
 
