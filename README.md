@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay kj</h1>
-<h3 align="center">An experienced Full stack developer</h3>
+<h3 align="center">A Full stack developer with 3+ years of industry experience.</h3>
 
-- 🌱 **SDE**
+- 🌱 **SDE who loves to build **
 
-- 💬 Ask me about **Python, Java, Django, FastAPI, ReactJs, PostgreSQL**
+- 💬 Ask me about **DSA, System design, Python, Java**
 
 - 📫 You can reach me on **ajaykj684@gmail.com**
 
