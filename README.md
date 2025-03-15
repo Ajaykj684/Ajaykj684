@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay kj</h1>
 <h3 align="center">A Full stack developer with 3+ years of industry experience.</h3>
 
-- 🌱 **SDE who loves to build **
+- 🌱 **SOFTWARE DEVELOPEMENT ENGINEER**
 
 - 💬 Ask me about **DSA, System design, Python, Java**
 
