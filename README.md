@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Ajay KJ</h1>
-<h3 align="center">Full Stack Developer | 3.8 Years of Experience | Building Scalable Web Solutions</h3>
+<h3 align="center">Full Stack Developer | 4+ Years of Experience | Building Scalable Web Solutions</h3>
 
 <p align="center">
 🚀 Passionate about building impactful software products, solving real-world problems, and mastering scalable system design.
