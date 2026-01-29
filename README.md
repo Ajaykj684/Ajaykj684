@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Software Development Engineer** with **3.8 years** of professional experience
+- 💼 **Software Development Engineer** with **4+ years** of professional experience
 - ⚙️ Specialized in **Full-Stack Development**, primarily in **ERP systems**
 - 🔧 Backend expertise in **Python (Django, FastAPI)** and **Node.js**
 - 🌐 Frontend experience with **React.js**, **Tailwind CSS**
